@@ -457,6 +457,8 @@
 .viminfo
 .vimrc
 .web
+.well-known/
+.well-known/security.txt
 .workspace/
 .wp-config.php.swp
 .www_acl
@@ -3615,6 +3617,10 @@ joomla.xml
 joomla.zip
 joomla/administrator
 js
+js/envConfig.js
+js/prod.js
+js/prepod.js
+js/qa.js
 js/elfinder/elfinder.php
 js/FCKeditor
 js/routing
@@ -4989,6 +4995,7 @@ securecleanup
 secured
 secureemail
 security
+security.txt
 security.xml
 security/
 Security/login/
